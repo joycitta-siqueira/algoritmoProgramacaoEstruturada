@@ -6,7 +6,7 @@ sequência, imprima todos com a formatação abaixo.
 */
 
 #include<stdio.h>
-int main(){
+int main(){dsfsdf
     int numeroInteiro;
     float numeroRealFloat;
     double numeroRealDouble;
