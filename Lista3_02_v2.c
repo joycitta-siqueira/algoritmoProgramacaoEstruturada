@@ -13,12 +13,8 @@ int main(){
     printf("Digite o nome: ");
     gets(nomeCor);
 
-    if (strcmp(nomeCor, "verde") == 0)
+    if (strcmp(nomeCor, "verde") == 0 || strcmp(nomeCor, "branco") == 0 || strcmp(nomeCor, "amarelo") == 0)
         printf("Cores iguais");
-        else if (strcmp(nomeCor, "branco") == 0)
-            printf("Cores iguais");
-            else if (strcmp(nomeCor, "amarelo") == 0)
-                    printf("Cores iguais");
-                    else printf("Cores sao diferentes");
+        else printf("Cores sao diferentes");
 
 }
