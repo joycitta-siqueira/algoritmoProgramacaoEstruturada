@@ -6,8 +6,8 @@ sequência, imprima todos com a formatação abaixo.
 */
 
 #include<stdio.h>
-int main(){dsfsdf
-    int numeroInteiro;
+int main(){
+    int numeroInteiro=2;
     float numeroRealFloat;
     double numeroRealDouble;
     char umaLetra;
